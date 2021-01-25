@@ -1,0 +1,4 @@
+*.json
+data/
+.ipynb_checkpoints
+temp.py
