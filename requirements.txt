@@ -4,3 +4,4 @@ matplotlib==3.3.3
 spotipy==2.16.1
 requests==2.25.1
 fire==0.4.0
+pandas-profiling==2.11.0
